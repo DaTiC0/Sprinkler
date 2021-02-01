@@ -1,0 +1,6 @@
+gunicorn
+Flask
+oauth2client
+gspread
+slacker
+python-forecastio
